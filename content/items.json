@@ -1,0 +1,21 @@
+[
+  {
+    "key": "TESTITEMONE",
+    "name": "TestItem",
+    "description": "TestDescription",
+    "userpoints": 77
+  },
+  {
+    "key": "TESTITEMTWO",
+    "name": "TestItem2",
+    "description": "TestDescription2",
+    "userpoints": 5,
+    "targetpoints": -5
+  },
+  {
+    "key": "TESTITEMTHREE",
+    "name": "TestItem3",
+    "description": "TestDescription3",
+    "targetpoints": 100
+  }
+]
